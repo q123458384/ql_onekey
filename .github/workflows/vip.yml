@@ -8,7 +8,7 @@
 ## 作者名         Oreomeow  
 ## 作者库名       VIP     
 ## 作者分支名     main     
-## 同步分支名     ql   （可自定义 ）
+## 同步分支名     ql2   （可自定义 ）
 
 
 
@@ -39,5 +39,5 @@ jobs:
         with:
           source_repo: "https://github.com/Oreomeow/VIP.git"
           source_branch: "main"
-          destination_branch: "ql"
+          destination_branch: "ql2"
           github_token: ${{ secrets.PAT }}
